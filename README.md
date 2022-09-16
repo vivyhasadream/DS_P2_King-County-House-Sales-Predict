@@ -31,9 +31,9 @@ data
 
 -Han_Chosen_Features_df: for the final model
 
--column_names:description of King County House sales column names
+-column_names: description of King County House sales column names
 
--kc_house_data:contains raw dataset of King County House sales
+-kc_house_data: contains raw dataset of King County House sales
 
 -kc_house_data: cleaned dataset of above
 
@@ -47,7 +47,7 @@ Final Model-ForPlotting
 
 Final Model
 
-Han_1_1_Extra_Data_Wrangling
+Han_1_Data_Wrangling
 
 Han_2_EDA
 
